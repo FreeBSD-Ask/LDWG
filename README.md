@@ -2,7 +2,7 @@
 
 - 原项目地址：[The FreeBSD Foundation's Laptop Support and Usability Project](https://github.com/FreeBSDFoundation/proj-laptop/)
 
-WIKI 页面：[Laptop and Desktop Working Group](https://wiki.freebsd.org/LaptopDesktopWorkingGroup)
+- WIKI 页面：[Laptop and Desktop Working Group](https://wiki.freebsd.org/LaptopDesktopWorkingGroup)
 
 ---
 
