@@ -10,7 +10,7 @@ WIKI 页面：[Laptop and Desktop Working Group](https://wiki.freebsd.org/Laptop
 
 | 计划名称 | 笔记本支持与可用性 |  
 | :---- | :---- |  
-| 资助机构 | FreeBSD 基金会\Quantum Leap Research |  
+| 资助机构 | FreeBSD 基金会、Quantum Leap Research |  
 | 资助状态 | 2024 年 9 月 27 日批准 |  
 | 计划发起人 | [Ed Maste](https://github.com/emaste) |  
 | 计划经理 | [Alice Sowerby](https://github.com/alice-sowerby) |  
