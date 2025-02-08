@@ -31,7 +31,7 @@ WIKI 页面：[Laptop and Desktop Working Group](https://wiki.freebsd.org/Laptop
 
 
 
-## 常见问题 (FAQs)  
+## 常见问题 (FAQ)  
 
 ### 这个项目的投资金额是多少？  
 总计 75 万美元用于改善 FreeBSD 笔记本用户体验的相关工作。  
