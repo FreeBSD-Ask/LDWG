@@ -1,4 +1,4 @@
-# 笔记本和台式机工作组 (LDWG) 相关翻译
+# 笔记本和台式机工作组 (LDWG) 中文翻译
 
 - 原项目地址：[The FreeBSD Foundation's Laptop Support and Usability Project](https://github.com/FreeBSDFoundation/proj-laptop/)
 
