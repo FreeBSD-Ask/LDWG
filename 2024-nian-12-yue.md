@@ -89,5 +89,6 @@ GitHub 问题：[https://github.com/FreeBSDFoundation/proj-laptop/issues/47](htt
   * Chris Moerz
   * 所有与会者
 * FreeBSD 项目
+* Quantum Leap Research
 
 有关更多信息，请参阅 [README](../README.md) 中的内容，了解 FreeBSD 基金会的笔记本项目。
