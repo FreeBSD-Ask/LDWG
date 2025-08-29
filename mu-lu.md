@@ -1,4 +1,4 @@
-# Table of contents
+# 目录
 
 * [笔记本和桌面工作组 LDWG](README.md)
 * [目录](mulu.md)
