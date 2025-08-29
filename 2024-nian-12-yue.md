@@ -23,7 +23,7 @@ GitHub 问题： [https://github.com/FreeBSDFoundation/proj-laptop/issues/12](ht
 
 此驱动程序故意设计了不稳定性，以加速崩溃检测，并在虚拟机环境中表现出合理的稳定性。
 
-在 Future Crew 12 月发布 iwx 源代码后，已集成更多功能和 FreeBSD 特定的功能。概念验证阶段现已完成，1月的开发将专注于启用 HT 速率，并为更广泛的用户测试准备驱动程序。
+在 Future Crew 12 月发布 iwx 源代码后，已集成更多功能和 FreeBSD 特定的功能。概念验证阶段现已完成，1 月的开发将专注于启用 HT 速率，并为更广泛的用户测试准备驱动程序。
 
 >**注意**
 >
@@ -31,7 +31,7 @@ GitHub 问题： [https://github.com/FreeBSDFoundation/proj-laptop/issues/12](ht
 
 GitHub 问题：[https://github.com/FreeBSDFoundation/proj-laptop/issues/45](https://github.com/FreeBSDFoundation/proj-laptop/issues/45)
 
-## 12月提交审查的工作
+## 12 月提交审查的工作
 
 ### Linux 6.7 的图形驱动程序
 
@@ -58,7 +58,7 @@ GitHub 问题：[https://github.com/FreeBSDFoundation/proj-laptop/issues/47](htt
 
 ### 安装和系统管理
 
-12月的工作已经开始解决 [pkg 中的技术负担](https://github.com/FreeBSDFoundation/proj-laptop/issues/46)，以支持将来在安装程序中安装 pkgbase 的开发。[我们还将创建一个工具，让用户过渡到使用 pkgbase](https://github.com/FreeBSDFoundation/proj-laptop/issues/26)。
+12 月的工作已经开始解决 [pkg 中的技术负担](https://github.com/FreeBSDFoundation/proj-laptop/issues/46)，以支持将来在安装程序中安装 pkgbase 的开发。[我们还将创建一个工具，让用户过渡到使用 pkgbase](https://github.com/FreeBSDFoundation/proj-laptop/issues/26)。
 
 ### 错误修复和技术负担管理
 
