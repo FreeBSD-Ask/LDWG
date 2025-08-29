@@ -1,4 +1,4 @@
-# FreeBSD 基金会的笔记本支持与可用性项目中文翻译
+# 笔记本和桌面工作组 LDWG
 
 - 原项目地址：[The FreeBSD Foundation's Laptop Support and Usability Project](https://github.com/FreeBSDFoundation/proj-laptop/)
 
