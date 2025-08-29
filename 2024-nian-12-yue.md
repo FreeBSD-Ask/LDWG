@@ -2,6 +2,7 @@
 
 
 ## 12 月完成的工作
+
 ### 更新图形驱动程序的新文档
 
 希望将 Linux 中的新 DRM 驱动程序支持添加到 FreeBSD 的开发者，现在可以按照一套 [说明](https://github.com/freebsd/drm-kmod/wiki/Porting-a-new-version-of-DRM-drivers-from-Linux) 提交 PR 到 [drm-kmod](https://github.com/freebsd/drm-kmod)。
@@ -45,6 +46,7 @@ GitHub 问题：[https://github.com/FreeBSDFoundation/proj-laptop/issues/47](htt
 ## 更新进展
 
 ### 兼容性和系统要求
+
 #### 笔记本型号
 
 我们正在建立 [笔记本列表](../supported/laptops.md)，用于我们开发和测试的工作。目前，我们已承诺支持一款型号：[Framework Laptop 13 - AMD Ryzen 7040™ Series](https://frame.work/ca/en/products/laptop-diy-13-gen-amd/configuration/new)。如果你希望参与讨论哪些笔记本将被列入支持清单，我们鼓励你 [加入桌面邮件列表](https://lists.freebsd.org/subscription/freebsd-desktop)。
@@ -69,6 +71,7 @@ GitHub 问题：[https://github.com/FreeBSDFoundation/proj-laptop/issues/47](htt
 基金会要对所有帮助启动项目并在本月取得如此有意义进展的人员表示衷心的感谢。
 
 特别感谢：
+
 * 我们的开发者
   * Aymeric Wibo
   * Bjoern Zeeb
