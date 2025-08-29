@@ -13,7 +13,7 @@
 | 计划发起人 | [Ed Maste](https://github.com/emaste) |  
 | 计划经理 | [Alice Sowerby](https://github.com/alice-sowerby) |  
 | 目标 | 提供一系列改进和新增的 FreeBSD 功能、使其能够“开箱即用”，在各种个人计算设备上良好运行。 |  
-| 组织目标 | 笔记本支持与可访问性是 FreeBSD 基金会的战略重点，旨在加速开发者和企业的采用，包括：<br/> <ul><li>提升组织用户的终端安全性</li> <li>改善 FreeBSD Committer 体验，以支持项目社区以及基于 FreeBSD 的产品供应商</li><li>降低个人用户、企业和贡献者采用 FreeBSD 的门槛</li></ul> |  
+| 组织目标 | 笔记本支持与可访问性是 FreeBSD 基金会的战略重点，旨在加速开发者和企业的采用，包括：<br/> <ul> <li> 提升组织用户的终端安全性 </li> <li> 改善 FreeBSD Committer 体验，以支持项目社区以及基于 FreeBSD 的产品供应商 </li> <li> 降低个人用户、企业和贡献者采用 FreeBSD 的门槛 </li> </ul> |  
 | 预期成果 | FreeBSD 14.x 及以上版本的更新，包括现代化 WiFi、完整音频支持、现代化的挂起与恢复、改进显卡支持、蓝牙及其他相关功能。同时提供文档和使用指南。 |  
 
 
