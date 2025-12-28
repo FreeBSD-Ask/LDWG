@@ -69,28 +69,19 @@ FreeBSD 社区设有 [笔记本与桌面工作组](https://wiki.freebsd.org/Lapt
 
 ### 这个项目是否会关注整体用户体验 (UX)，还是仅仅是技术更新？  
 
-我们深知 UX 是让 FreeBSD 在笔记本上更易用、更愉悦的关键因素。我们采用 “[用户故事](https://www.mountaingoatsoftware.com/agile/user-stories)” 的方式，描述用户希望完成的任务以及其原因。这是一种以用户为中心的功能需求定义方法，对于熟悉敏捷 (Agile) 开发方法的人来说，这种方式并不陌生。  
+我们深知 UX 是让 FreeBSD 在笔记本上更易用、更愉悦的关键因素。我们采用 “[用户故事](https://www.mountaingoatsoftware.com/agile/user-stories)” 的方式，描述用户希望完成的任务以及其原因。这里采用的是一种以用户为中心的方法来定义功能需求。
 
-### 你们是否采用敏捷开发 (Agile) 方法？  
-
-是的，我们在该项目中采用了敏捷开发的多个关键元素：  
-
-- **固定时间迭代 (Timeboxed iterations)。** 我们采用一个月为周期的迭代，既能确保交付有意义的成果，又不会让任务范围过于庞大而难以管理。  
-- **即时规划 (Just in Time, JIT planning)。** 我们会在项目进行过程中拆解可管理的任务，从而利用不断加深的理解来优化计划，并确保社区能持续参与。这意味着我们可以根据实际情况随时调整方向，并做出最优决策。  
-- **用户故事 (User Stories)。** 在每个月的迭代中，我们都会致力于交付完整的用户故事，以提供具体、可用的笔记本体验改进。  
-- **演示 (Demos)。** 我们会在笔记本与桌面工作组的会议上展示已完成的工作。  
-
-需要注意的是，我们并未完全采用标准的敏捷流程，而是更倾向于一种有意识的 “[Scrumbut](https://t2informatik.de/en/smartpedia/scrumbut/)” 方法，并根据实际情况不断调整优化。  
 
 ### 我如何跟进项目进展和最新发布的信息？  
 
 你可以通过以下方式保持关注：  
 
 1. 阅读 [每月更新](monthly-updates)，相关内容会发布到此代码仓库。  
-2. 参加笔记本与桌面工作组的会议，该项目的进展将在会议中分享（会议也会被录制）。  
+2. 参加[笔记本与桌面工作组](https://wiki.freebsd.org/LaptopDesktopWorkingGroup)的会议，该项目的进展将在会议中分享（会议也会被录制）。  
 3. 查看 GitHub 上的 [公开路线图](https://github.com/orgs/FreeBSDFoundation/projects/1/views/4)，我们会尽量保持项目信息的最新状态，并向所有人公开。  
 4. 订阅 [桌面邮件列表](https://lists.freebsd.org/subscription/freebsd-desktop)。  
-5. 订阅 FreeBSD 基金会的新闻通讯，所有关于该项目的重要公告都会包含在其中。  
+5. 订阅 [FreeBSD Foundation 新闻通讯](https://mailchi.mp/freebsdfoundation.org/update_november25-17602827)。所有关于该项目的公告都会包含在我们的更新中。
+6. 参加，或观看录像，[FreeBSD Foundation 的 Technology Team 更新](https://www.youtube.com/@FreeBSDMeetings)，这些更新会在与 BSDCan、EuroBSDCon、AsiaBSDCon 等会议联合举办的开发者峰会上发布。
 
 ### FreeBSD 基金会如何使用该代码仓库？  
 
