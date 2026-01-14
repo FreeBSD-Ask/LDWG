@@ -77,7 +77,7 @@ FreeBSD 社区设有 [笔记本与桌面工作组](https://wiki.freebsd.org/Lapt
 你可以通过以下方式保持关注：  
 
 1. 阅读 [每月更新](monthly-updates)，相关内容会发布到此代码仓库。  
-2. 参加[笔记本与桌面工作组](https://wiki.freebsd.org/LaptopDesktopWorkingGroup)的会议，该项目的进展将在会议中分享（会议也会被录制）。  
+2. 参加 [笔记本与桌面工作组](https://wiki.freebsd.org/LaptopDesktopWorkingGroup) 的会议，该项目的进展将在会议中分享（会议也会被录制）。  
 3. 查看 GitHub 上的 [公开路线图](https://github.com/orgs/FreeBSDFoundation/projects/1/views/4)，我们会尽量保持项目信息的最新状态，并向所有人公开。  
 4. 订阅 [桌面邮件列表](https://lists.freebsd.org/subscription/freebsd-desktop)。  
 5. 订阅 [FreeBSD Foundation 新闻通讯](https://mailchi.mp/freebsdfoundation.org/update_november25-17602827)。所有关于该项目的公告都会包含在我们的更新中。
